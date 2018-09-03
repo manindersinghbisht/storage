@@ -1,0 +1,22 @@
+.content-re{
+	margin: 0% 2% 0% 2%;
+	width: 75%;
+	float: left;
+}
+
+.right-sidebar{
+	margin: 0% 3% 0% 3%;
+	float: left;
+	width:10%;
+}
+
+.center-reg{
+
+	width:100%;
+}
+
+.footer-re{
+	padding-top: 1%;
+	float:left;
+	width:100%;
+}

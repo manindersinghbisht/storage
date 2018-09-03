@@ -1,0 +1,11 @@
+name= "my custom theme"
+core ="7.x"
+description="this is test theme"
+
+regions[header] 		= header
+regions[sub-header] 	= sub header 
+regions[content] 		= content
+regions[right-sidebar] 	= sidebar
+regions[foot] 			= footer
+
+stylesheets[all][]		= mystyle.css
