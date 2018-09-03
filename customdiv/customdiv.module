@@ -1,0 +1,13 @@
+<?php
+function customdiv_block_info(){
+	$blocks['my_block'] =array(
+	'info'=> "customdiv",);
+	return $blocks;
+}
+
+
+function customdiv_block_view(){	
+
+}
+
+
