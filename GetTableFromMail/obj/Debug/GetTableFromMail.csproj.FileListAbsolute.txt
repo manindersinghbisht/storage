@@ -1,0 +1,5 @@
+D:\CustomActivity\GetTableFromMail\bin\Debug\GetTableFromMail.dll
+D:\CustomActivity\GetTableFromMail\bin\Debug\GetTableFromMail.pdb
+D:\CustomActivity\GetTableFromMail\obj\Debug\GetTableFromMail.csproj.CoreCompileInputs.cache
+D:\CustomActivity\GetTableFromMail\obj\Debug\GetTableFromMail.dll
+D:\CustomActivity\GetTableFromMail\obj\Debug\GetTableFromMail.pdb
