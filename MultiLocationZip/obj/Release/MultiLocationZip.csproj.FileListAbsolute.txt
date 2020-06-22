@@ -1,0 +1,6 @@
+D:\CustomActivity\MultiLocationZip\bin\Release\MultiLocationZip.dll
+D:\CustomActivity\MultiLocationZip\bin\Release\MultiLocationZip.pdb
+D:\CustomActivity\MultiLocationZip\obj\Release\MultiLocationZip.csprojAssemblyReference.cache
+D:\CustomActivity\MultiLocationZip\obj\Release\MultiLocationZip.csproj.CoreCompileInputs.cache
+D:\CustomActivity\MultiLocationZip\obj\Release\MultiLocationZip.dll
+D:\CustomActivity\MultiLocationZip\obj\Release\MultiLocationZip.pdb
